@@ -11,7 +11,7 @@ This plan is a focused, self-created and self-directed study plan. It operates a
 - **Cloud & design** — AWS security fundamentals, secure code review, and threat modeling
 - **Credentials** — Burp Suite Certified Practitioner (BSCP) and CompTIA Security+ (SY0-701)
 
-The goal is a portfolio that demonstrates real application-security ability — backed by both a hands-on exploitation credentials (BSCP) and the industry-standard baseline (Security+). It is overflowing in hands-on project work, as well as reading of books, PortSwigger docs, OWASP guides, and other learning material.
+The goal is a portfolio that demonstrates real application-security ability — backed by both a hands-on exploitation credential (BSCP) and the industry-standard baseline (Security+). It is overflowing in hands-on project work, as well as reading of books, PortSwigger docs, OWASP guides, and other learning material.
 
 ## Project Index
 
@@ -20,7 +20,7 @@ Each entry below is a standalone repository. Each repository is a different comp
 | Project | Description | Status |
 | --- | --- | --- |
 | [AppSec Study Guide](https://github.com/KLabWeb/cybersecurity-study-guide) | The study guide I built with Claude Opus 4.8 for this career transition. This guide was stress tested and edited hundreds of times by me before coming to a final draft. It was also peer reviewed by a friend in the industry for over 20 years. | Complete |
-| [Cybersecurity Notes & Study Tracker](https://github.com/KLabWeb/cybersecurity-notes) | All notes taken during the study plan — including but not limited to - vulnerability classes, tooling, cloud security, and secure-coding patterns, organized by topic. | In progress |
+| [Cybersecurity Notes & Study Tracker](https://github.com/KLabWeb/cybersecurity-notes) | All notes taken during the study plan, such as vulnerability classes, tooling, cloud security, and secure-coding patterns, organized by topic. | In progress |
 
 
 ## Coming Soon
