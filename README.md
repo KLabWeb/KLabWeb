@@ -21,6 +21,7 @@ Each entry below is a standalone repository. Each repository is a different comp
 | --- | --- | --- |
 | [AppSec Study Guide](https://github.com/KLabWeb/cybersecurity-study-guide) | The study guide I built with Claude Opus 4.8 for this career transition. This guide was stress tested and edited hundreds of times by me before coming to a final draft. It was also peer reviewed by a friend in the industry for over 20 years. | Complete |
 | [Cybersecurity Notes & Study Tracker](https://github.com/KLabWeb/cybersecurity-notes) | All notes taken during the study plan, such as vulnerability classes, tooling, cloud security, and secure-coding patterns, organized by topic. | In progress |
+| [FastAPI Refresher App](https://github.com/KLabWeb/cybsecurity-fastapi-app) | Refresher app I am building while finishing the FastAPI official docs and to use for a local lab application for the rest of the study plan. | In progress |
 
 
 ## Coming Soon
