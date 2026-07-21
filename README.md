@@ -1,9 +1,9 @@
-# Kyle Miskell — Cybersecurity Study Portfolio
+# Kyle M. — Cybersecurity Study Portfolio
 
 Due to the seemingly never-ending layoffs in software engineering and lack of career security now in this field, in June 2026, I decided to transition from a full-stack software engineer (5 years experience in SaaS web dev) and to transition into an **application security (AppSec) engineering** role in cybersecurity. This profile is the index to the projects, notes, and deliverables I'm producing as I work through my study plan.
 
 ## About the Plan
-This plan is a focused, self-created and self-directed study plan. It operates at a 21 hour / week velocity, to allow me to continue working while completing it. It starts with review and mild expansion of web-development topics, then slowly expands to a complete entry-level AppSec engineer skill set. It is built around doing rather than watching: every phase produces public, reviewable work:
+This plan is a focused, self-created and self-directed study plan. It operates at a 35 hour / week velocity. It starts with review and mild expansion of web-development topics, then slowly expands to a complete entry-level AppSec engineer skill set. It is built around doing rather than watching: every phase produces public, reviewable work:
 
 - **Foundations** — HTTP, web architecture, authentication and sessions, and networking as an attack surface
 - **Core offense** — hands-on practice across the OWASP Top 10 and the major web vulnerability classes
